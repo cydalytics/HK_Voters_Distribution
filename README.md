@@ -9,12 +9,17 @@ The data used in the map are stored in [Consolidated Data.xlsx](https://github.c
 
 Demonstration 1:
 HK Map with Different TileLayers [Jupyter Notebook](https://github.com/cydalytics/Folium_HK_Map_Visuals/blob/master/Folium%20Demo%201-%20HK%20Map%20with%20Different%20TileLayers.ipynb)
+
 Expected Visual output: 
+
 [map1.html](https://github.com/cydalytics/Folium_HK_Map_Visuals/blob/master/map1.html)
 
 
 Demonstration 2:
 HK Map with Customized Tooltip [Jupyter Notebook](https://github.com/cydalytics/Folium_HK_Map_Visuals/blob/master/Folium%20Demo%202%20-%20HK%20Map%20with%20Customized%20Tooltip.ipynb)
+
 Expected Visual output:  
+
 [map2.html](https://github.com/cydalytics/Folium_HK_Map_Visuals/blob/master/map2.html)
+
 [map3.html](https://github.com/cydalytics/Folium_HK_Map_Visuals/blob/master/map3.html)
