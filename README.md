@@ -15,12 +15,13 @@ HK Map with Different TileLayers [Jupyter Notebook](https://github.com/cydalytic
 Expected Visual output: 
 
 Map1.html: 
-![logo](https://1.bp.blogspot.com/-I8YSgztqa4o/XrQ4MdDp_dI/AAAAAAAAAFA/mbWqA-SVELsyXmXmKI60vTvJCnU7lXB5ACLcBGAsYHQ/s1600/Screenshot%2B2020-05-08%2Bat%2B12.32.10%2BAM.png)
+![logo](https://1.bp.blogspot.com/-I8YSgztqa4o/XrQ4MdDp_dI/AAAAAAAAAFA/mbWqA-SVELsyXmXmKI60vTvJCnU7lXB5ACLcBGAsYHQ/s640/Screenshot%2B2020-05-08%2Bat%2B12.32.10%2BAM.png)
 
 Demonstration 2:
 HK Map with Customized Tooltip [Jupyter Notebook](https://github.com/cydalytics/Folium_HK_Map_Visuals/blob/master/Folium%20Demo%202%20-%20HK%20Map%20with%20Customized%20Tooltip.ipynb)
 
-Expected Visual output:  
+Expected Visual output:
+
 Map2.html: 
 ![logo](https://1.bp.blogspot.com/-HqLTAZdeOm4/XrQ2rvCGR0I/AAAAAAAAAE0/lxfeNVKBgbE4M7JMBbpLtD2_sQcN8CILwCLcBGAsYHQ/s640/Screenshot%2B2020-05-08%2Bat%2B12.03.36%2BAM.png)
 
