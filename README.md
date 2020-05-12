@@ -1,7 +1,7 @@
 # Folium_HK_Map_Visuals
 Using Folium to visualise data with Hong Kong map
 
-Feel free to visit my Medium post to learn more about the project details. 
+Feel free to visit [my Medium post](https://towardsdatascience.com/using-folium-to-generate-choropleth-map-with-customised-tooltips-12e4cec42af2) to learn more about the project details. 
 
 Data were downloaded from [voter statistics](https://www.voterregistration.gov.hk/chi/statistic2019.html) and [census population statistics](https://www.censtatd.gov.hk/hkstat/sub/sp150.jsp?productCode=B1130301) released from Hong Kong Government and pre-processed. 
 
