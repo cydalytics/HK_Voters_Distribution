@@ -1,4 +1,17 @@
 # Folium_HK_Map_Visuals
+*<b>Created by cyda - Carrie Lo & Yeung Wong</b>*
+![alt text](https://2.bp.blogspot.com/-JDCofS2Pvic/WxQCv_XstyI/AAAAAAAAABM/rWHKnG4ItnMULgmO_tWAuGTNL6kAexJlACK4BGAYYCw/s1000/tight%2Bbanner.png)
+
+---------------------------------------------------------------------------------------------
+### Please acknowledge <b>team cyda - Yeung Wong and Carrie Lo</b> when using the code
+
+### If you find this script is helpful, please feel free to endorse us through Linkedin!
+Linkedin:
+
+* Carrie Lo - *https://www.linkedin.com/in/carrielsc/*
+* Yeung Wong - *https://www.linkedin.com/in/yeungwong/*
+---------------------------------------------------------------------------------------------
+## Project Description
 Using Folium to visualise data with Hong Kong map
 
 Feel free to visit [my Medium post](https://towardsdatascience.com/using-folium-to-generate-choropleth-map-with-customised-tooltips-12e4cec42af2?source=friends_link&sk=fb4a6c344fc5b4df6625bc1ec9626fdf) to learn more about the project details. 
@@ -9,7 +22,7 @@ The data used in the map are stored in [Consolidated Data.xlsx](https://github.c
 
 The original map json file of Hong Kong is downloaded from [this site](https://abhijeet.carto.com/tables/hkg_adm1/public/map).
 
-Demonstration 1:
+## Demonstration 1
 HK Map with Different TileLayers ([Jupyter Notebook](https://github.com/cydalytics/Folium_HK_Map_Visuals/blob/master/Folium%20Demo%201-%20HK%20Map%20with%20Different%20TileLayers.ipynb))
 
 Expected Visual output: 
@@ -17,7 +30,7 @@ Expected Visual output:
 Map1.html: 
 ![logo](https://1.bp.blogspot.com/-I8YSgztqa4o/XrQ4MdDp_dI/AAAAAAAAAFA/mbWqA-SVELsyXmXmKI60vTvJCnU7lXB5ACLcBGAsYHQ/s640/Screenshot%2B2020-05-08%2Bat%2B12.32.10%2BAM.png)
 
-Demonstration 2:
+## Demonstration 2
 HK Map with Customized Tooltip ([Jupyter Notebook](https://github.com/cydalytics/Folium_HK_Map_Visuals/blob/master/Folium%20Demo%202%20-%20HK%20Map%20with%20Customised%20Tooltip.ipynb))
 
 Expected Visual output:
