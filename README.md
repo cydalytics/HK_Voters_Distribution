@@ -25,7 +25,7 @@ The original map json file of Hong Kong is downloaded from [this site](https://a
 
 ## Demonstration
 
-To test the interactive effect, you may check by xxx.
+To test the interactive effects of the charts, please visit [https://cydalytics.blogspot.com/2020/05/hk-voter-analysis.html](https://cydalytics.blogspot.com/2020/05/hk-voter-analysis.html).
 
 HK Map with Different TileLayers
 
