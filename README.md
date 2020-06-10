@@ -1,4 +1,4 @@
-# Hong Kong Voters Distribution
+# Hong Kong Voters Distribution [![Python](https://img.shields.io/badge/Program-Python-BLUE)](https://cydalytics.blogspot.com/) [![Folium](https://img.shields.io/badge/Package-Folium-GREEN)](https://cydalytics.blogspot.com/)
 *<b>Created by cyda - Carrie Lo & Yeung Wong</b>*
 ![alt text](https://2.bp.blogspot.com/-JDCofS2Pvic/WxQCv_XstyI/AAAAAAAAABM/rWHKnG4ItnMULgmO_tWAuGTNL6kAexJlACK4BGAYYCw/s1000/tight%2Bbanner.png)
 
@@ -17,7 +17,7 @@ This project is to visualize Hong Kong voters distribution.
 ## Project Details
 To check the tutorial article, please click [here](https://towardsdatascience.com/using-folium-to-generate-choropleth-map-with-customised-tooltips-12e4cec42af2).
 
-The package used is "Folium". Folium builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the leaflet.js library. To know more about the package, you can refer to the docunment [here](https://python-visualization.github.io/folium/).
+The package used is `Folium`. Folium builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the `leaflet.js` library. To know more about the package, you can refer to the docunment [here](https://python-visualization.github.io/folium/).
 
 Data were downloaded from [voter statistics](https://www.voterregistration.gov.hk/chi/statistic2019.html) and [census population statistics](https://www.censtatd.gov.hk/hkstat/sub/sp150.jsp?productCode=B1130301) released from Hong Kong Government and pre-processed. The data used in the map are stored in [Consolidated Data.xlsx](https://github.com/cydalytics/HK_Voters_Distribution/blob/master/Consolidated%20Data.xlsx). Feel free to play around =)
 
