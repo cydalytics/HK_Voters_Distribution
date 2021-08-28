@@ -1,6 +1,6 @@
 # Hong Kong Voters Distribution [![Python](https://img.shields.io/badge/Program-Python-BLUE)](https://cydalytics.blogspot.com/) [![Folium](https://img.shields.io/badge/Package-Folium-GREEN)](https://cydalytics.blogspot.com/)
 *<b>Created by cyda - Carrie Lo & Yeung Wong</b>*
-![alt text](https://2.bp.blogspot.com/-JDCofS2Pvic/WxQCv_XstyI/AAAAAAAAABM/rWHKnG4ItnMULgmO_tWAuGTNL6kAexJlACK4BGAYYCw/s1000/tight%2Bbanner.png)
+[![alt text](https://2.bp.blogspot.com/-JDCofS2Pvic/WxQCv_XstyI/AAAAAAAAABM/rWHKnG4ItnMULgmO_tWAuGTNL6kAexJlACK4BGAYYCw/s1000/tight%2Bbanner.png)](https://cydalytics.blogspot.com/)
 
 ---------------------------------------------------------------------------------------------
 ### Please acknowledge <b>team cyda - Carrie Lo and Yeung Wong</b> when using the code
